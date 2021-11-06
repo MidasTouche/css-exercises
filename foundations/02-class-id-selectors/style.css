@@ -1,0 +1,21 @@
+/* style.css*/
+.a-class{
+    background-color: rgb(247, 183, 220);
+    font-family: Verdana, sans-serif;
+}
+
+.a-class.cooler-class{
+    font-size: 24px;
+}
+
+#id-one{
+    color:rgb(11, 206, 255);
+    font-size: 36px;
+    
+}
+
+#id-two{
+    background-color: rgb(4, 155, 4);
+    font-size: 24px;
+    font-weight: bold;
+}
